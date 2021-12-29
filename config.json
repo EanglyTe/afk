@@ -1,6 +1,6 @@
 {
-	"ip":"ClonerKh.aternos.me",
-	"port": "32003",
+	"ip":"ClonerServer.aternos.me",
+	"port": "53240",
 	"name": "afkbot1",
 	"auto-night-skip":"true"
 }
